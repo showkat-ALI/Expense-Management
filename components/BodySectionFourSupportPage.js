@@ -1,7 +1,7 @@
 import SupportPageADOne from "./SupportPageADOne";
-import SupportPageATOne from "./supportPageATOne";
+import SupportPageATOne from "./SupportPageATOne";
 import SupportPageArtical from "./SupportPageArtical";
-import Link from 'next/link';
+import Link from "next/link";
 
 const cards = [
   {
