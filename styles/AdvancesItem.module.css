@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Kronshtadt;
+  src: url(../assets/font/Kronshtadt.otf);
+}
+@font-face {
+  font-family: "DM Sans", sans-serif;
+  src: url(../assets/font/DMSans-Regular.ttf);
+}
+
+#billdueDate,
+#invoiceDate,
+#invoice {
+  font-family: "DM Sans", sans-serif;
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 2px solid rgba(25, 49, 60, 0.1);
+}
+#Description {
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 2px solid rgba(25, 49, 60, 0.1);
+  height: 59px;
+  /* width: 751px; */
+}
+.formlabel {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+  color: #2c3242;
+}
+.itemheading {
+  font-family: Kronshtadt;
+  font-size: 21px;
+}
+.itemParent {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)),
+    rgba(77, 73, 255, 0.01);
+  border-radius: 16px;
+  padding: 24px 16px 16px;
+}

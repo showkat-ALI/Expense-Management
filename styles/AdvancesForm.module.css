@@ -1,0 +1,107 @@
+@font-face {
+  font-family: Kronshtadt;
+  src: url(../assets/font/Kronshtadt.otf);
+}
+@font-face {
+  font-family: "DM Sans", sans-serif;
+  src: url(../assets/font/DMSans-Regular.ttf);
+}
+
+/* main {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.93),
+      rgba(255, 255, 255, 0.93)
+    ),
+    #4d49ff;
+} */
+.newExpencesHeader {
+  font-family: Kronshtadt;
+  font-weight: 400;
+}
+.formParent {
+  background: #ffffff;
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+  border-radius: 24px;
+  padding: 24px 30px 24px 20px;
+  width: 800px;
+  margin: 0 auto;
+}
+.reciptsection {
+  border-radius: 16px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)),
+    rgba(77, 73, 255, 0.01);
+  padding: 24px 16px;
+  height: 102px;
+}
+.reciptsubHead {
+  color: rgba(44, 50, 66, 0.5);
+  width: 100%;
+}
+.separateLine {
+  border: 2px solid rgba(25, 49, 60, 0.05);
+  height: 0.01px;
+}
+#vendor,
+#ExpenseDate {
+  padding: 16px 24px;
+  border-radius: 8px;
+  border: 2px solid rgba(25, 49, 60, 0.1);
+}
+.fieldLabel {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+}
+.expencesItems {
+  border-radius: 16px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.02)),
+    rgba(77, 73, 255, 0.01);
+  padding: 24px 16px 16px;
+  height: 289px;
+  width: 783px;
+}
+.itemsaddingBtn {
+  border-radius: 60px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    rgba(77, 73, 255, 0.03);
+  height: 43px;
+  width: 132.04px;
+  padding: 0px 16px 0px 12px;
+}
+.addingText {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+}
+.addReciptBtn {
+  border-radius: 60px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    rgba(77, 73, 255, 0.03);
+  padding: 0px 16px 0px 12px;
+  height: 43px;
+  width: 172px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+}
+.settingrecipt {
+  height: 43px;
+  width: 125px;
+  border-radius: 60px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    rgba(77, 73, 255, 0.03);
+  padding: 0px 16px 0px 12px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 425px) {
+  .settingrecipt{
+    width: 100%;
+    padding: 3px 10px;
+  }
+  .formParent{
+    padding: 30px 0;
+    width: 100%;
+  }
+  .itemsaddingBtn{
+    padding: 3px 10px;
+  }
+}

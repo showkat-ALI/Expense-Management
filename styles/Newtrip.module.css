@@ -1,0 +1,21 @@
+.tripParent {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.93),
+      rgba(255, 255, 255, 0.93)
+    ),
+    #4d49ff;
+  min-height: 100vh;
+}
+.bursementDefaultGrayBG {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)),
+    rgba(77, 73, 255, 0.03);
+}
+.bursementBackground {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.93),
+      rgba(255, 255, 255, 0.93)
+    ),
+    #4d49ff;
+}

@@ -1,0 +1,23 @@
+.parent {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.93),
+      rgba(255, 255, 255, 0.93)
+    ),
+    #4d49ff;
+  padding-bottom: 5rem;
+}
+.activitybtn {
+  border-radius: 50%;
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+  padding: 6px;
+}
+.hamburgerIcon {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

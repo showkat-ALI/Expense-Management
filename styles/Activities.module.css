@@ -1,0 +1,78 @@
+@font-face {
+  font-family: Kronshtadt;
+  src: url(../assets/font/Kronshtadt.otf);
+}
+.top {
+  line-height: 38px;
+}
+.activitiesSection {
+  font-family: Kronshtadt;
+}
+.topheading,
+.middleheading,
+.secondmiddleheading {
+  font-family: Kronshtadt;
+  font-weight: 400;
+}
+.middleheading {
+  margin-left: 21rem;
+  width: 232px;
+  height: 48px;
+  border: 2px solid #4d49ff;
+  border-radius: 120px;
+}
+
+.secondmiddleheading,
+.textsm {
+  color: rgba(0, 0, 0, 0.35);
+}
+.billsimg,
+.tripimg,
+.expencesimg {
+  border-radius: 1rem;
+}
+.expences:hover .expencestext {
+  transition: all 0.4s ease;
+  background-color: white;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+.expences:hover .expencesimg {
+  transition: all 0.4s ease;
+
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.expences:hover {
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+}
+.bills:hover {
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+}
+.bills:hover .billstext {
+  transition: all 0.4s ease;
+  background-color: white;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+.bills:hover .billsimg {
+  transition: all 0.4s ease;
+
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.trip:hover {
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+}
+.trip:hover .triptext {
+  transition: all 0.4s ease;
+  background-color: white;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+.trip:hover .tripimg {
+  transition: all 0.4s ease;
+
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}

@@ -1,0 +1,28 @@
+.activitybtn {
+  border-radius: 50%;
+  box-shadow: 0px 8px 34px rgba(0, 0, 0, 0.1);
+  padding: 6px;
+}
+.hamburgerIcon {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.draftBtn,
+.approvalBtn {
+  border-radius: 100px;
+  padding: 16px 32px;
+  font-weight: 500;
+}
+.draftBtn {
+  color: #4d49ff;
+  border: 3px solid #4d49ff;
+}
+.approvalBtn {
+  color: #ffffff;
+  background: #4d49ff;
+}

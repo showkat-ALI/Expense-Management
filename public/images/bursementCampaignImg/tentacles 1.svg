@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="838" height="211" fill="none" viewBox="0 0 838 211">
+  <path stroke="#020303" stroke-dasharray="4.89 4.89" stroke-miterlimit="10" d="M419 210.063V93.658"/>
+  <path stroke="#020303" stroke-dasharray="4.98 4.98" stroke-miterlimit="10" d="M413.709 100.008C349.607 177.931 26.454 138.274 1 188.899"/>
+  <path stroke="#020303" stroke-dasharray="5.07 5.07" stroke-miterlimit="10" d="M419 94.716C406.998 200.257 229.629 147.1 211.587 187.84"/>
+  <path stroke="#020303" stroke-dasharray="4.98 4.98" stroke-miterlimit="10" d="M424.291 100.008c64.093 77.923 387.203 38.266 412.709 88.891"/>
+  <path stroke="#020303" stroke-dasharray="5.07 5.07" stroke-miterlimit="10" d="M419 93.658c12.002 106.74 189.372 52.978 207.413 94.182"/>
+  <g filter="url(#a)">
+    <path fill="#fff" d="M450.849 9h-62.064c-6.229 0-11.278 5.053-11.278 11.286v62.11c0 6.232 5.049 11.285 11.278 11.285h62.064c6.228 0 11.277-5.053 11.277-11.286v-62.11c0-6.232-5.049-11.285-11.277-11.285Z"/>
+    <path fill="#4D49FF" fill-rule="evenodd" d="M422.581 35.497c-3.262-1.213-7.734-1.618-12.707-1.466-1.617.05-2.978 1.413-2.978 3.196V66.85c0 1.724 1.285 3.08 2.87 3.202 6.137.472 11.334.143 15.149-1.114 3.74-1.232 5.923-3.255 6.689-6.17.785-2.987-.22-5.932-2.361-8.392-2.349 3.296-5.921 5.58-10.316 5.58-2.463 0-4.489-.904-5.882-2.403-1.359-1.463-1.996-3.36-1.996-5.19 0-1.832.637-3.728 1.996-5.19 1.393-1.5 3.419-2.404 5.882-2.404 2.853 0 5.881.916 8.592 2.457.458-1.879.589-3.961.307-6.107-.348-2.649-2.072-4.443-5.245-5.622Zm8.852 14.612c1.027-2.918 1.378-6.225.939-9.566-.632-4.81-3.976-7.696-8.167-9.254-4.101-1.525-9.287-1.915-14.473-1.756-4.288.13-7.42 3.677-7.42 7.694V66.85c0 3.909 2.961 7.37 7.096 7.688 6.398.493 12.304.202 16.965-1.334 4.737-1.56 8.405-4.502 9.669-9.31 1.411-5.37-.943-10.23-4.404-13.589a21.144 21.144 0 0 0-.205-.196Zm-5.693 1.317c-2.228-1.377-4.698-2.157-6.813-2.157-1.261 0-2.028.432-2.496.936-.503.541-.798 1.317-.798 2.157 0 .84.295 1.616.798 2.158.468.504 1.235.936 2.496.936 2.744 0 5.136-1.462 6.813-4.03Z" clip-rule="evenodd"/>
+  </g>
+  <path fill="#1EB9FC" d="M109.997 166.675a6.349 6.349 0 1 0 0-12.698 6.349 6.349 0 0 0 0 12.698Zm192.598 6.35a6.349 6.349 0 1 0 0-12.698 6.349 6.349 0 0 0 0 12.698Z"/>
+  <defs>
+    <filter id="a" width="108.619" height="108.681" x="365.507" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="6"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_2229_4305"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation=".5"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+      <feBlend in2="effect1_dropShadow_2229_4305" result="effect2_dropShadow_2229_4305"/>
+      <feBlend in="SourceGraphic" in2="effect2_dropShadow_2229_4305" result="shape"/>
+    </filter>
+  </defs>
+</svg>
